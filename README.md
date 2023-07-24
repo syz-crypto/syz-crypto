@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @syz-crypto
+- 👀 I’m interested in building on the blockchain
+- 🌱 I’m currently learning how to build on the solana network, using the anchor framework
